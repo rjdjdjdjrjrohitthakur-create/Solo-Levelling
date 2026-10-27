@@ -1,0 +1,7 @@
+{
+  "name": "Level Up",
+  "description": "Real life RPG gamification app turning habits, goals, and tasks into an RPG progression system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Shield / Hexagonal Emblem -->
+    <path
+        android:fillColor="#1E293B"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="2.5"
+        android:pathData="M54,23 L80,36 L80,68 L54,85 L28,68 L28,36 Z" />
+
+    <!-- Inner Shield Accent -->
+    <path
+        android:fillColor="#0D1527"
+        android:strokeColor="#7C3AED"
+        android:strokeWidth="1.5"
+        android:pathData="M54,28 L74,38 L74,65 L54,79 L34,65 L34,38 Z" />
+
+    <!-- Upward Level Up Double Chevrons -->
+    <!-- Top Arrow -->
+    <path
+        android:fillColor="#00F0FF"
+        android:pathData="M54,34 L66,45 L62,49 L54,42 L46,49 L42,45 Z" />
+
+    <!-- Second Arrow -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,46 L66,57 L62,61 L54,54 L46,61 L42,57 Z" />
+
+    <!-- Central RPG Power Diamond / Star -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,60 L58,67 L65,67 L59,72 L62,79 L54,75 L46,79 L49,72 L43,67 L50,67 Z" />
+</vector>
